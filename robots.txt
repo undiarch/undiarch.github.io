@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://undiarch.github.io/sitemap
+Sitemap: https://undiarch.github.io/app/sitemap
+Sitemap: https://undiarch.github.io/assets/sitemap
+Sitemap: https://undiarch.github.io/css/sitemap
+Sitemap: https://undiarch.github.io/includes/sitemap
+Sitemap: https://undiarch.github.io/item/sitemap
+Sitemap: https://undiarch.github.io/src/sitemap
